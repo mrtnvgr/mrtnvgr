@@ -7,6 +7,10 @@
 
 <!-- hide contribs, until #2282 will be resolved -->
 
+<!--
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtnvgr&layout=compact&bg_color=000000&text_color=dadada&border_radius=0&title_color=dadada" width="400px" />
 </p>
+
+-->
