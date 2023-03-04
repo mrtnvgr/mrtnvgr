@@ -23,7 +23,7 @@
 <!-- use github actions, add Languages(with whitelist), editor/os-->
 
 <img
-     src="https://wakatime.com/share/@mrtnvgr/9071bc87-0381-497a-ae3b-e56d7a9c7a5a.svg"
+     src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg"
      width="400px"
      height="115px"
 />
