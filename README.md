@@ -1,6 +1,11 @@
+<h3>Stack</h3>
+
+![Python Badge](https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python)
+![Postgresql Badge](https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql)
+
 <h3><b>Currently Learning</b></h3>
 
-![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&logo=lua&color=010180)
+![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua)
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
