@@ -1,22 +1,3 @@
-<h3>Stack</h3>
-
-![Python Badge](https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python)
-![Postgresql Badge](https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql)
-
-<h3><b>Currently Learning</b></h3>
-
-![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua)
-
-<h3>Systems & Editor</h3>
-
-![Gentoo badge](https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo)
-![Termux badge](https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android)
-
-[![Neovim badge](https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim)](https://github.com/mrtnvgr/init.lua)
-
-<!-- TOLEARN LIST: -->
-<!-- - Rust -->
-
 <h3><b>Contributions</b></h3>
 
 <img
@@ -34,3 +15,29 @@
      width="400px"
      height="115px"
 />
+
+<h4>Stack</h4>
+
+![Python Badge](https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python)
+![Postgresql Badge](https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql)
+
+<h4><b>Currently Learning</b></h4>
+
+![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua)
+
+<!-- TOLEARN LIST: -->
+<!-- - Rust -->
+
+<h4><b>Systems</b></h4>
+
+![Gentoo badge](https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo)
+![Termux badge](https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android)
+
+<h4><b>Editor</b></h4>
+
+[![Neovim badge](https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim)](https://github.com/mrtnvgr/init.lua)
+
+<h4><b>Contact me</b></h4>
+
+[![Telegram badge](https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram)](https://t.me/mrtnvgr)
+[![Email badge](https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada)](mailto:martynovegorOF@yandex.ru)
