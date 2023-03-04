@@ -1,31 +1,26 @@
-<p align="center">
-    <b>Contributions</b>
-</p>
+<b>Hi! :3</b>
 
-<p align="center">
-    <img
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=."
-        width="400px"
-    />
-</p>
+<b>Currently Learning</b>
 
-<p align="center">
-    <b>Wakatime "Coding Activity" Chart</b>
-</p>
+- Lua
 
-<p align="center">
-    <img
-         src="https://wakatime.com/share/@mrtnvgr/9071bc87-0381-497a-ae3b-e56d7a9c7a5a.svg"
-         width="400px"
-    />
-</p>
+<!-- TOLEARN LIST: -->
+<!-- - Rust -->
 
-<!-- hide contribs, until #2282 will be resolved -->
+<b>Contributions</b>
 
-<!--
+<img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=."
+    width="400px"
+    height="115px"
+/>
 
-<p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mrtnvgr&layout=compact&bg_color=000000&text_color=dadada&border_radius=0&title_color=dadada" width="400px" />
-</p>
+<b>Wakatime "Coding Activity" Chart</b>
 
--->
+<!-- use github actions, add Languages(with whitelist), editor/os-->
+
+<img
+     src="https://wakatime.com/share/@mrtnvgr/9071bc87-0381-497a-ae3b-e56d7a9c7a5a.svg"
+     width="400px"
+     height="115px"
+/>
