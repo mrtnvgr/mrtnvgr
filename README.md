@@ -1,6 +1,6 @@
 <h3><b>Currently Learning</b></h3>
 
-- Lua
+![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&logo=lua&color=010180)
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
