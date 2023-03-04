@@ -7,9 +7,11 @@
 
 ![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua)
 
-<h3>System & Tools</h3>
+<h3>Systems & Editor</h3>
 
 ![Gentoo badge](https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo)
+![Termux badge](https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android)
+
 [![Neovim badge](https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim)](https://github.com/mrtnvgr/init.lua)
 
 <!-- TOLEARN LIST: -->
