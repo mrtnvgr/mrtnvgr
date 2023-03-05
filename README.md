@@ -18,12 +18,12 @@
 
 #### **Stack**
 
-![Python Badge]
-![PostgreSQL Badge]
+[![Python Badge]](https://www.python.org/)
+[![PostgreSQL Badge]](https://www.postgresql.org/)
 
 #### **Currently Learning**
 
-![Lua Badge]
+[![Lua Badge]](https://www.lua.org/)
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
