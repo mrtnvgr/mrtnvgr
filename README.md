@@ -1,4 +1,4 @@
-<h3><b>Contributions</b></h3>
+### **Contributions**
 
 <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=."
@@ -6,7 +6,7 @@
     height="115px"
 />
 
-<h3><b>Wakatime "Coding Activity" Chart</b></h3>
+### **Wakatime "Coding Activity" Chart**
 
 <!-- use github actions, add Languages(with whitelist), editor/os-->
 
@@ -16,28 +16,28 @@
      height="115px"
 />
 
-<h4>Stack</h4>
+#### **Stack**
 
 ![Python Badge]
 ![PostgreSQL Badge]
 
-<h4><b>Currently Learning</b></h4>
+#### **Currently Learning**
 
 ![Lua Badge]
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
 
-<h4><b>Systems</b></h4>
+#### **Systems**
 
 ![Gentoo badge]
 ![Termux badge]
 
-<h4><b>Editor</b></h4>
+#### **Editor**
 
 [![Neovim badge]](https://github.com/mrtnvgr/init.lua)
 
-<h4><b>Contact me</b></h4>
+#### **Contact me**
 
 [![Telegram badge]](https://t.me/mrtnvgr)
 [![Email badge]](mailto:martynovegorOF@yandex.ru)
