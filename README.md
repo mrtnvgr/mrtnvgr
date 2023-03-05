@@ -18,26 +18,37 @@
 
 <h4>Stack</h4>
 
-![Python Badge](https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python)
-![Postgresql Badge](https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql)
+![Python Badge]
+![PostgreSQL Badge]
 
 <h4><b>Currently Learning</b></h4>
 
-![Lua Badge](https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua)
+![Lua Badge]
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
 
 <h4><b>Systems</b></h4>
 
-![Gentoo badge](https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo)
-![Termux badge](https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android)
+![Gentoo badge]
+![Termux badge]
 
 <h4><b>Editor</b></h4>
 
-[![Neovim badge](https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim)](https://github.com/mrtnvgr/init.lua)
+[![Neovim badge]](https://github.com/mrtnvgr/init.lua)
 
 <h4><b>Contact me</b></h4>
 
-[![Telegram badge](https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram)](https://t.me/mrtnvgr)
-[![Email badge](https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada)](mailto:martynovegorOF@yandex.ru)
+[![Telegram badge]](https://t.me/mrtnvgr)
+[![Email badge]](mailto:martynovegorOF@yandex.ru)
+
+<!-- Badges -->
+
+[Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
+[PostgreSQL Badge]: https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql
+[Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
+[Gentoo Badge]: https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo
+[Termux Badge]: https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android
+[Neovim Badge]: https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim
+[Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
+[Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
