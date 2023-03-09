@@ -1,37 +1,32 @@
-### **Contributions**
-
-<img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=."
-    width="400px"
-    height="115px"
-/>
-
-### **Wakatime "Coding Activity" Chart**
-
-<!-- use github actions, add Languages(with whitelist), editor/os-->
-
-<img
-     src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg"
-     width="400px"
-     height="115px"
-/>
-
-#### **Stack**
+### **Stack**
 
 [![Python Badge]](https://www.python.org/)
 [![PostgreSQL Badge]](https://www.postgresql.org/)
 
-#### **Currently Learning**
+### **Currently Learning**
 
 [![Lua Badge]](https://www.lua.org/)
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
 
-#### **Contact me**
+### **Contact me**
 
 [![Telegram badge]](https://t.me/mrtnvgr)
 [![Email badge]](mailto:martynovegorOF@yandex.ru)
+
+### **Stats**
+
+<img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=.&border_color=ffffff00"
+    width="400px"
+    height="115px"
+/>
+<img
+     src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg"
+     width="400px"
+     height="115px"
+/>
 
 <!-- Badges -->
 
