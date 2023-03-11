@@ -1,11 +1,13 @@
-### **Stack**
+<p align="center">
+    <img src="https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python"/>
+    <img src="https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua"/>
+</p>
 
-[![Python Badge]](https://www.python.org/)
-[![PostgreSQL Badge]](https://www.postgresql.org/)
-
-### **Currently Learning**
-
-[![Lua Badge]](https://www.lua.org/)
+<p align="center">
+    <img src="https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo"/>
+    <img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
+    <img src="https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim"/>
+</p>
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
@@ -28,10 +30,5 @@
      height="115px"
 />
 
-<!-- Badges -->
-
-[Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
-[PostgreSQL Badge]: https://img.shields.io/badge/postgresql-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=postgresql
-[Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
 [Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
 [Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
