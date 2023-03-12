@@ -20,7 +20,7 @@
 ### **Stats**
 
 <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs&border_radius=0&hide_rank=true&card_width=400px&custom_title=.&border_color=ffffff00"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs,commits&border_radius=0&hide_rank=true&card_width=400px&custom_title=.&border_color=ffffff00"
     width="400px"
     height="115px"
 />
