@@ -6,6 +6,14 @@
 [Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
 [Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
 
+#### **Contact me**
+
+[![Telegram badge]](https://t.me/mrtnvgr)
+[![Email badge]](mailto:martynovegorOF@yandex.ru)
+    
+[Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
+[Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
+
 <!--
 <img src="https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo"/>
 <img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
@@ -36,17 +44,4 @@
      width="200px"
      height="120px"
 />
-</details>
-
-</br>
-
-<details>
-<summary><b>Contact me via</b></summary>
-
-[![Telegram badge]](https://t.me/mrtnvgr)
-[![Email badge]](mailto:martynovegorOF@yandex.ru)
-    
-[Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
-[Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
-
 </details>
