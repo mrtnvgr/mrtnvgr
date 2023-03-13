@@ -3,6 +3,9 @@
 [![Python badge]](https://python.org/)
 [![Lua badge]](https://lua.org/)
 
+[Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
+[Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
+
 <!--
 <img src="https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo"/>
 <img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
@@ -11,11 +14,6 @@
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
-
-#### **Contact me via**
-
-[![Telegram badge]](https://t.me/mrtnvgr)
-[![Email badge]](mailto:martynovegorOF@yandex.ru)
 
 </br>
 
@@ -40,8 +38,15 @@
 />
 </details>
 
-[Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
-[Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
+</br>
 
+<details>
+<summary><b>Contact me via</b></summary>
+
+[![Telegram badge]](https://t.me/mrtnvgr)
+[![Email badge]](mailto:martynovegorOF@yandex.ru)
+    
 [Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
 [Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
+
+</details>
