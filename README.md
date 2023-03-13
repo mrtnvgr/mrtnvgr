@@ -12,7 +12,7 @@
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
 
-#### **Contact me**
+#### **Contact me via**
 
 [![Telegram badge]](https://t.me/mrtnvgr)
 [![Email badge]](mailto:martynovegorOF@yandex.ru)
