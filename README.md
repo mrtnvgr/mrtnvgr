@@ -17,6 +17,8 @@
 [![Telegram badge]](https://t.me/mrtnvgr)
 [![Email badge]](mailto:martynovegorOF@yandex.ru)
 
+</br>
+
 <details>
 <summary><b>Github Stats</b></summary>
 <img
