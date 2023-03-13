@@ -1,34 +1,43 @@
-<p align="center">
-    <img src="https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python"/>
-    <img src="https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua"/>
-</p>
+#### **Stack**
 
-<p align="center">
-    <img src="https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo"/>
-    <img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
-    <img src="https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim"/>
-</p>
+[![Python badge]](https://python.org/)
+[![Lua badge]](https://lua.org/)
+
+<!--
+<img src="https://img.shields.io/badge/gentoo-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=gentoo"/>
+<img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
+<img src="https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim"/>
+-->
 
 <!-- TOLEARN LIST: -->
 <!-- - Rust -->
 
-### **Contact me**
+#### **Contact me**
 
 [![Telegram badge]](https://t.me/mrtnvgr)
 [![Email badge]](mailto:martynovegorOF@yandex.ru)
 
-### **Stats**
+#### **Github Stats**
 
 <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs,commits&border_radius=0&hide_rank=true&card_width=400px&custom_title=.&border_color=ffffff00"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mrtnvgr&count_private=true&hide_title=true&bg_color=000000&text_color=dadada&show_icons=true&icon_color=dadada&ring_color=dadada&include_all_commits=true&hide=stars,contribs,commits&border_radius=0&hide_rank=true&card_width=400px&custom_title=."
     width="400px"
     height="90px"
 />
+
+#### **Wakatime Week Activity Stats**
+
 <img
-     src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtnvgr&hide_title=true&bg_color=000000&text_color=dadada&border_radius=0&border_color=ffffff00&custom_title=.&langs_count=3&hide_progress=true"
-     width="400px"
-     height="90px"
+     src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtnvgr&hide_title=true&bg_color=000000&text_color=dadada&border_radius=0&border_color=dadada&langs_count=3&hide_progress=true"
 />
+<img
+     src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg"
+     width="200px"
+     height="120px"
+/>
+
+[Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
+[Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
 
 [Telegram Badge]: https://img.shields.io/badge/telegram-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=telegram
 [Email Badge]: https://img.shields.io/badge/email-%25.svg?style=for-the-badge&color=000000&logoColor=dadada
