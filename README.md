@@ -6,6 +6,12 @@
 [Python Badge]: https://img.shields.io/badge/python-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=python
 [Lua Badge]: https://img.shields.io/badge/lua-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=lua
 
+#### **Currently Learning**
+
+[![Rust badge]](https://rust-lang.org/)
+
+[Rust badge]: https://img.shields.io/badge/rust-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=rust
+
 #### **Contact me**
 
 [![Telegram badge]](https://t.me/mrtnvgr)
@@ -19,9 +25,6 @@
 <img src="https://img.shields.io/badge/termux-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=android"/>
 <img src="https://img.shields.io/badge/neovim-%25.svg?style=for-the-badge&color=000000&logoColor=dadada&logo=neovim"/>
 -->
-
-<!-- TOLEARN LIST: -->
-<!-- - Rust -->
 
 </br>
 
