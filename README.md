@@ -10,6 +10,11 @@
 
 [![Rust badge]](https://rust-lang.org/)
 
+<!--
+TO LEARN LIST:
+    - TeX
+-->
+
 [Rust badge]: https://img.shields.io/badge/rust-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=rust
 
 #### **Contact me**
