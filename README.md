@@ -9,13 +9,10 @@
 #### **Currently Learning**
 
 [![Rust badge]](https://rust-lang.org/)
-
-<!--
-TO LEARN LIST:
-    - TeX
--->
+[![TeX badge]](https://tug.org/)
 
 [Rust badge]: https://img.shields.io/badge/rust-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=rust
+[TeX badge]: https://img.shields.io/badge/TeX-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=latex
 
 #### **Contact me**
 
