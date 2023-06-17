@@ -9,10 +9,10 @@
 #### **Currently Learning**
 
 [![Rust badge]](https://rust-lang.org/)
-[![TeX badge]](https://tug.org/)
+[![Docker badge]](https://docker.com/)
 
 [Rust badge]: https://img.shields.io/badge/rust-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=rust
-[TeX badge]: https://img.shields.io/badge/TeX-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=latex
+[Docker badge]: https://img.shields.io/badge/docker-%25.svg?style=for-the-badge&logoColor=dadada&color=000000&logo=docker
 
 #### **Contact me**
 
