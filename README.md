@@ -39,14 +39,14 @@
 />
 </details>
 
-<details>
-<summary><b>Wakatime Week Activity Stats</b></summary>
-<img
-     src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtnvgr&hide_title=true&bg_color=000000&text_color=dadada&border_radius=0&border_color=dadada&langs_count=3&hide_progress=true&range=last_7_days"
-/>
-<img
-     src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg"
-     width="200px"
-     height="120px"
-/>
-</details>
+<!-- <details> -->
+<!-- <summary><b>Wakatime Week Activity Stats</b></summary> -->
+<!-- <img -->
+<!--      src="https://github-readme-stats.vercel.app/api/wakatime?username=mrtnvgr&hide_title=true&bg_color=000000&text_color=dadada&border_radius=0&border_color=dadada&langs_count=3&hide_progress=true&range=last_7_days" -->
+<!-- /> -->
+<!-- <img -->
+<!--      src="https://wakatime.com/share/@mrtnvgr/eece2036-2ca2-4e7e-9d14-8aacf1b490de.svg" -->
+<!--      width="200px" -->
+<!--      height="120px" -->
+<!-- /> -->
+<!-- </details> -->
