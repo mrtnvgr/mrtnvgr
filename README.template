@@ -1,7 +1,5 @@
-== Stack == <br>
 Rust, Python, Lua <br>
 Nix, Docker <br>
 
-== Counters ==<br>
 PRs: **{{ pull_requests }}** <br>
 Issues: **{{ issues }}** <br>
